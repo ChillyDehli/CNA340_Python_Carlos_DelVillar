@@ -3,8 +3,8 @@ minVal = n
 maxVal = n
 while(n>0):
     if(minVal>n):
-        minVal = n
+        minVal = 
     if(maxVal<n):
-        maxVal = n
+        maxVal = 
     n = int(input())
-print(minVal,maxVal)
+print(minVal,maxVal
